@@ -1,4 +1,4 @@
-# PabloSantalla.com Blog
+# pablosantalla.com Blog
 
 Welcome to the blog of Pablo Santalla, a platform where I share my insights and experiences related to web development, design, and a variety of other interests. This blog is hosted at [blog.pablosantalla.com](https://blog.pablosantalla.com), utilizing Vercel for seamless deployment and powered by GitHub for version control.
 
@@ -14,7 +14,7 @@ This blog serves as a personal project, allowing me to explore different technol
 
 ## Contact
 
-For any inquiries, support, or web maintenance requests, feel free to reach out to me through my portfolio at [PabloSantalla.com](https://pablosantalla.com) or directly at [PabloSantalla.com/support](https://pablosantalla.com/support).
+For any inquiries, support, or web maintenance requests, feel free to reach out to me through my portfolio at [pablosantalla.com](https://pablosantalla.com) or directly at [pablosantalla.com/support](https://pablosantalla.com/support).
 
 ## Stay Tuned
 
